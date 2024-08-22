@@ -1,21 +1,27 @@
-# cMLr3asK
+# Row Counter
 
-Quick start:
+**Link**
 
-```
-$ npm install
-$ npm start
-````
+https://rowcounterappp.netlify.app/
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🧮 Overview
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+The **Row Counter** is a simple web application designed to help users count and track rows, making it especially useful for activities like knitting, crocheting, or any task where counting rows is essential.
 
-Happy Coding!
+## 🚀 Features
+
+- **Increment Counter:** Easily increase the row count with a click.
+- **User-Friendly Interface:** Simple and clean design for easy use.
+
+## 🛠️ Technologies Used
+
+- **HTML5:** Provides the basic structure for the website.
+- **CSS3:** Styles the counter interface with a clean and minimal design.
+- **JavaScript:** Handles the functionality for counting rows and interacting with the user.
+
+- ## 👤 Author
+
+- **Name:** Anadi Yadav
+- **GitHub:** [@yourusername](https://github.com/AnadiYadav)
+- **LinkedIn:** [Anadi Yadav](https://www.linkedin.com/in/anadi-yadav-065499214/)
